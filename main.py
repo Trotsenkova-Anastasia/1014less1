@@ -1,15 +1,18 @@
-class Student:
-    name="Alex"
-    def __init__(self):
-        self.name="Nick"
-        self.age=12
-        print(self.age)
 
+print("Hello")
 
-student1=Student()
-Student.__init__(self=student1)
-
-
+# class Student:
+#     name="Alex"
+#     def __init__(self):
+#         self.name="Nick"
+#         self.age=12
+#         print(self.age)
+#
+#
+# student1=Student()
+# Student.__init__(self=student1)
+#
+#
 
 # print(student1.name)
 # class Student:
